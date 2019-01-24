@@ -8,7 +8,7 @@ Simple Login App based on Email & Face Recognition. This app let you create an a
 
 ## Ruoli
 * PROJECT_MANAGER = Ur Rehman Haseeb
-* DOCUMENTAZIONE = Ur Rehman Haseeb & Braggs Warren Federico 
+* Documentation = Ur Rehman Haseeb & Braggs Warren Federico 
 * Backend Developer = Ur Rehman Haseeb
 * FrontEnd Developer = Braggs Warren Federico
 
