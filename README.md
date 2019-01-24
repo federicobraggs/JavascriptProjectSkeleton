@@ -3,8 +3,8 @@
 Simple Login App based on Email & Face Recognition. This app let you create an account with the common registration by email and password and then you can register your face too. In this way you can authenticate your identity with username and face recognition. 
 
 ## Partecipanti
- - Braggs Warren Federico 
- - Ur Rehman Haseeb
+ - <a href="https://github.com/federicobraggs">Braggs Warren Federico</a>
+ - <a href="https://github.com/seebi98">Ur Rehman Haseeb</a>
 
 ## Ruoli
 * PROJECT_MANAGER = Ur Rehman Haseeb
